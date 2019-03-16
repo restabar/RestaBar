@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "903851098197",
+    "firebase_url": "https://restabar-dc6df.firebaseio.com",
+    "project_id": "restabar-dc6df",
+    "storage_bucket": "restabar-dc6df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903851098197:android:5f4b80173367b481",
+        "android_client_info": {
+          "package_name": "com.restabar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903851098197-60dgnio7qrguj5h59ned1nosa20pv40u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.restabar",
+            "certificate_hash": "c7cf9c6ccd7a18480fcb1b9d2b5139172958a39d"
+          }
+        },
+        {
+          "client_id": "903851098197-0jagq02ctqevvd7p31ncdblu3ajs64nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgmJEX-Dp2r_U9Bk2PvipYpM1qiEOd2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903851098197-0jagq02ctqevvd7p31ncdblu3ajs64nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
